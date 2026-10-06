@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    margin: 0;
+    color: wheat;
+
+}
+div{
+    margin: 5% 25% 0% 25%;
+    width: 50%;
+}
+img{
+    width: 100%;
+    border: 5px solid wheat;
+}
+h1{
+    font-family: "Caveat", cursive;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+    /* margin-top: 3rem; */
+}
+p{
+    text-align: center;
+      margin-top: 10px;
+}
